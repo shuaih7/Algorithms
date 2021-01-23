@@ -1,4 +1,0 @@
-﻿  Sorting.cpp
-c:\users\shuai\documents\github\algorithms\sorting\sorting.cpp(21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-c:\users\shuai\documents\github\algorithms\sorting\sorting.cpp(41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Sorting.vcxproj -> C:\Users\shuai\Documents\GitHub\Algorithms\Sorting\x64\Debug\Sorting.exe
