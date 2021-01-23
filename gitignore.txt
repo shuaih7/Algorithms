@@ -1,0 +1,2 @@
+/Sorting/.vs/
+/Sorting/.x64/
